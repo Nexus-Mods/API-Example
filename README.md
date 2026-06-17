@@ -24,7 +24,7 @@ To use this workflow in your own project, you'll need to configure the following
 
 ### Variables
 
-- `NEXUSMODS_FILE_GROUP_ID` - The file Group ID for your mod on NexusMods
+- `NEXUSMODS_FILE_ID` - The File ID for your mod on NexusMods
 
 ## Usage
 
