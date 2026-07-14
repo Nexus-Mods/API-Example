@@ -29,4 +29,5 @@ jobs:
           display_name: "My Amazing Mod"
           description: "Test description"
           version: ${{ github.event.release.tag_name || github.event.inputs.version }}
+          update_mod_version: true
 
